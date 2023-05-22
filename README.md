@@ -36,6 +36,14 @@ Pour l'analyse exploratoire et le feature ingeniering, il nous est proposé d'ut
 
 ![Mlflow tracking](./Mlflow/mlflow.PNG)
 
+![Mlflow tracking](./Mlflow/hyperparamters_lgbm_xgboost_under_optuna.PNG)
+
+![Mlflow tracking](./Mlflow/metrics_lgbm_randomforest_xgboost_logisticregression_under_randomizedsearch_cv.PNG)
+
+## Data Drift
+Résultat de Data Drift
+
+![Data Drift](datadrift.PNG)
 ## Modèle de classification
 Le modèle retenu pour développer le dashbord est le modèle LigthGBM. En comparant les différentes métriques de performance des quatre modèles que nous avons testés, à savoir Xgboost, LogisticRegression, RandomForestClassifier et LigthGBM, ce dernier se révèle être le modèle adéquat.  
 
