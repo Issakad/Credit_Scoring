@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Desktop/Data%20science/Openclassrooms/Projet%207/Programme/mlruns/550392860860679065/3561c490d40a4911b65a34144bbf4141/artifacts
+end_time: 1684453335651
+entry_point_name: ''
+experiment_id: '550392860860679065'
+lifecycle_stage: active
+run_id: 3561c490d40a4911b65a34144bbf4141
+run_name: melodic-sow-236
+run_uuid: 3561c490d40a4911b65a34144bbf4141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684453187919
+status: 3
+tags: []
+user_id: Utilisateur

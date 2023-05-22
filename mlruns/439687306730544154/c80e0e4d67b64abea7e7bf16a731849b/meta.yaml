@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Desktop/Data%20science/Openclassrooms/Projet%207/Programme/mlruns/439687306730544154/c80e0e4d67b64abea7e7bf16a731849b/artifacts
+end_time: 1684455336197
+entry_point_name: ''
+experiment_id: '439687306730544154'
+lifecycle_stage: active
+run_id: c80e0e4d67b64abea7e7bf16a731849b
+run_name: debonair-wolf-837
+run_uuid: c80e0e4d67b64abea7e7bf16a731849b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684454369167
+status: 4
+tags: []
+user_id: Utilisateur

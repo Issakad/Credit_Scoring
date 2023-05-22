@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Desktop/Data%20science/Openclassrooms/Projet%207/Programme/mlruns/439687306730544154/03d6875772434fe2afccc73c673c403f/artifacts
+end_time: 1684454369065
+entry_point_name: ''
+experiment_id: '439687306730544154'
+lifecycle_stage: active
+run_id: 03d6875772434fe2afccc73c673c403f
+run_name: intelligent-sow-196
+run_uuid: 03d6875772434fe2afccc73c673c403f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684453603445
+status: 3
+tags: []
+user_id: Utilisateur

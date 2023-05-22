@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Utilisateur/Desktop/Data%20science/Openclassrooms/Projet%207/Programme/mlruns/550392860860679065/80d2c6e053cd4c31931788be0a0ff25c/artifacts
+end_time: 1684453148889
+entry_point_name: ''
+experiment_id: '550392860860679065'
+lifecycle_stage: active
+run_id: 80d2c6e053cd4c31931788be0a0ff25c
+run_name: masked-croc-35
+run_uuid: 80d2c6e053cd4c31931788be0a0ff25c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684452972330
+status: 3
+tags: []
+user_id: Utilisateur
