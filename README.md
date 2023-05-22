@@ -33,7 +33,9 @@ Pour l'analyse exploratoire et le feature ingeniering, il nous est proposé d'ut
  - Un dossier avec la configuration de l'API et le déploiement de l'application sur Streamlit cloud accessible [ici](https://issakad-deployment-dashboardfinal-1ejy27.streamlit.app/)
    
  - Un dossier Mlflow permettant d'accéder aux différentes versions des modèles entrainés et optimisés sur trois optimisateurs: RandomizedSearchCV, GridSearch et Optuna.
+
             ![Mlflow tracking: LGBM_Xgboost_LogisticRegression_Randomforest](Mlflow/comparison_lgbm_randomforest_xgboost_logisticregression_under_randomizedsearch_cv.png)
+
 ## Modèle de classification
 Le modèle retenu pour développer le dashbord est le modèle LigthGBM. En comparant les différentes métriques de performance des quatre modèles que nous avons testés, à savoir Xgboost, LogisticRegression, RandomForestClassifier et LigthGBM, ce dernier se révèle être le modèle adéquat.  
 
