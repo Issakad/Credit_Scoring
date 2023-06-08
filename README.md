@@ -30,7 +30,7 @@ Pour l'analyse exploratoire et le feature ingeniering, il nous est proposé d'ut
 
  - Un dossier avec le Notebook Jupyter pour l'analyse exploratoire et le feature ingeniering, l'entraînement et la configuration du modèle de classification avec les hyperparamètres optimaux. Le notebook inclut également deux sections d'analyse de data drift avec la librairie Evidently et la déterminantion d'une fonction de coût métier qui minimise les perte de la société financière "Prêt à dépenser".
  - Un dossier avec la note technique qui explique en détails la construction et les résultats du modèle.
- - Un dossier avec la configuration de l'API et le déploiement de l'application sur Streamlit cloud accessible [ici]([https://issakad-deployment-dashboardfinal-1ejy27.streamlit.app/](https://issakad-dashboard1-dashboard-whmh48.streamlit.app/))
+ - Un dossier avec la configuration de l'API et le déploiement de l'application sur Streamlit cloud accessible [ici]([https://issakad-dashboard1-dashboard-whmh48.streamlit.app/])
    
  - Un dossier Mlflow permettant d'accéder aux différentes versions des modèles entrainés et optimisés sur trois optimisateurs: RandomizedSearchCV, GridSearch et Optuna.
 
